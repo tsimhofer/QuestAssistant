@@ -1,0 +1,18 @@
+{
+  "name": "QuestAssistant",
+  "version": "1.0.0",
+  "slug": "questassistant",
+  "description": "Verwaltet Haushalts-Quests, vergibt Punkte und integriert sich mit Google Calendar.",
+  "arch": [ "aarch64", "amd64", "armhf", "armv7", "i386" ],
+  "startup": "once",
+  "boot": "auto",
+  "panel_icon": "mdi:medal",
+  "options": {
+    "google_calendar_id": "primary"
+  },
+  "schema": {
+    "google_calendar_id": "str"
+  },
+  "image": "mein-docker-hub-user/questassistant-{arch}"
+}
+    

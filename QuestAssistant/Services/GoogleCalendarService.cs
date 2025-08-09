@@ -4,6 +4,8 @@ using Google.Apis.Calendar.v3.Data;
 using Google.Apis.Services;
 using Google.Apis.Util.Store;
 
+namespace QuestAssistant.Services;
+
 public class GoogleCalendarService
 {
     private static string[] Scopes = { CalendarService.Scope.CalendarEvents };

@@ -1,5 +1,8 @@
 ﻿using QuestAssistant.Models;
+using QuestAssistant.Services;
 using System.Text.Json;
+
+namespace QuestAssistant.Logic;
 
 public class TaskManager
 {

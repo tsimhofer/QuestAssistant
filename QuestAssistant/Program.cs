@@ -1,3 +1,6 @@
+using QuestAssistant.Logic;
+using QuestAssistant.Services;
+
 namespace QuestAssistant;
 
 public class Program

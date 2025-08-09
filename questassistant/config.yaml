@@ -1,6 +1,6 @@
 name: "Quest Assistant"
 version: "0.1.0"
-slug: "quest_assistant"
+slug: "questassistant"
 description: "A Quest tracking assistant for Home Assistant"
 arch:
   - "aarch64"

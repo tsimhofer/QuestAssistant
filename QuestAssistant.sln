@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestAssistant", "src\QuestAssistant.csproj", "{5E34B8CE-1DBA-D359-23F2-0A5F98D67FA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestAssistant", "questassistant\src\QuestAssistant.csproj", "{E423D12E-5DA5-A5E3-10AB-37EB9858F608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E34B8CE-1DBA-D359-23F2-0A5F98D67FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E34B8CE-1DBA-D359-23F2-0A5F98D67FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E34B8CE-1DBA-D359-23F2-0A5F98D67FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E34B8CE-1DBA-D359-23F2-0A5F98D67FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E423D12E-5DA5-A5E3-10AB-37EB9858F608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E423D12E-5DA5-A5E3-10AB-37EB9858F608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E423D12E-5DA5-A5E3-10AB-37EB9858F608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E423D12E-5DA5-A5E3-10AB-37EB9858F608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
